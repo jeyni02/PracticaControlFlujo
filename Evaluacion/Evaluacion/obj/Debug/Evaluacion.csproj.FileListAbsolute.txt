@@ -1,0 +1,10 @@
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Evaluacion\Evaluacion\bin\Debug\Evaluacion.exe.config
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Evaluacion\Evaluacion\bin\Debug\Evaluacion.exe
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Evaluacion\Evaluacion\bin\Debug\Evaluacion.pdb
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.AssemblyReference.cache
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Form1.resources
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Evaluacion\Evaluacion\obj\Debug\Evaluacion.Properties.Resources.resources
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.GenerateResource.cache
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Evaluacion\Evaluacion\obj\Debug\Evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Evaluacion\Evaluacion\obj\Debug\Evaluacion.exe
+C:\Users\HomeLap\Documents\26 y 30 del 08\09 de septiembre\IEvaluación\Evaluacion\Evaluacion\obj\Debug\Evaluacion.pdb

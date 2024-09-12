@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Evaluacion.Properties {
+namespace Notas.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Evaluacion.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Evaluacion.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Notas.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,9 +63,9 @@ namespace Evaluacion.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap usuario {
+        internal static System.Drawing.Bitmap nuevo_usuario {
             get {
-                object obj = ResourceManager.GetObject("usuario", resourceCulture);
+                object obj = ResourceManager.GetObject("nuevo-usuario", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
